@@ -8,9 +8,6 @@ Ce projet a pour objectif la conception, la mise en œuvre et la sécurisation c
 
 - **Proxmox VE** – Virtualisation des machines
 - **Windows Server (AD, DNS, DHCP, GPO)** – Services principaux
-- **pfSense** – Pare-feu / Routeur
-- **Debian / Apache / MariaDB** – Serveur Web et base de données
-- **Docker** – Conteneurisation (pour les services web)
 - **Wireshark / Putty / TeamViewer / CCleaner** – Outils d’administration
 - **Scripts PowerShell** – Automatisation des tâches (GPO, AD, etc.)
 
