@@ -2,7 +2,7 @@
 
 ## 📌 Présentation
 
-Ce projet a pour objectif la conception, la mise en œuvre et la sécurisation complète d’une infrastructure réseau pour une entreprise fictive, dans le cadre du BTS SIO option SISR. Il inclut la configuration de serveurs, de services réseau essentiels, la mise en place d’une DMZ, la redondance des équipements, et la sécurisation globale du système.
+Ce projet a pour objectif la conception, la mise en œuvre et la sécurisation complète d’une infrastructure réseau pour une entreprise fictive, dans le cadre de mon BTS SIO option SISR. Il inclut la configuration de serveurs, de services réseau essentiels, la mise en place d’une DMZ, la redondance des équipements, et la sécurisation globale du système.
 
 ## 🛠️ Technologies & outils utilisés
 
